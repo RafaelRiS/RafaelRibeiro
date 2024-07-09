@@ -3,7 +3,7 @@
 ## Sobre Mim
 Sou um entusiasta da tecnologia com foco em **Java**, **Python** e **Inteligência Artificial**. Tenho uma paixão por aprender e criar projetos inovadores.
 
-![Coding](https://giphy.com/gifs/tecnicageracao-4rZA5D22301iMgrUNd)
+![Coding](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdrbmRhMzB0Nng1dDR6NnI1MWZ2cjlqdThqMWVueWFpMDB4YTNseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif)
 
 ## 🚀 Tecnologias & Ferramentas
 - **Linguagens de Programação:** Java, Python
